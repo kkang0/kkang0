@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Jeongyoon&fontSize=50&fontAlignY=80)
 
 
-# 😎 ABOUT ME
+# 👩🏻 ABOUT ME
 
 ### 
 
@@ -20,11 +20,14 @@
 
 ### 📚 Frameworks & Engine
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/kkaanngg_)
 
 
 # 📞 CONTACTS
